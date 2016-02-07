@@ -4,13 +4,8 @@ If you already have JRE installed, then double click on the "APSRTC Hyderabad Bu
 Or else right click on the file, go to Open With, and select "Java (TM) Platform SE Binary". This will open the file
 
 You need Java Runtime environment to run this program.
-You can get it from 
-http://www.filehippo.com/download_jre_32/
-http://www.java.com/en/download/index.jsp
-
 Have fun :)
-Ashok Felix.
-www.ashok88.com
+Ankit Chaurasia
 
 
 
